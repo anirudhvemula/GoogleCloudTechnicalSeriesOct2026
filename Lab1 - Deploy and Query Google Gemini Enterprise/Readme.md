@@ -1,5 +1,4 @@
-﻿
-`What topics will be discussed at PlanetCon Persephone?`
+> `What topics will be discussed at PlanetCon Persephone?`
 
 *Gemini replied*
 Based on the official conference document <u>PlanetCon_Persephone.docx</u> found in your Google Drive, the conference focuses on the discovery, analysis, and future exploration of the newly discovered exoplanet Persephone.
@@ -46,7 +45,7 @@ Location: International Institute of Planetary Studies, Geneva, Switzerland
 
 <hr>
 
-`What is the size of Persephone compared to Earth? Also provide the sources link of the information.`
+> `What is the size of Persephone compared to Earth? Also provide the sources link of the information.`
 
 *Gemini replied*
 Persephone has a radius estimated at 0.97 times that of Earth, making it slightly smaller than Earth.
@@ -66,7 +65,7 @@ Document: <u>Persephone_Analysis_Report.pdf</u> (Section 3: The Physical Propert
 
 <hr>
 
-`Summarize @Persephone_Analysis_Report.pdf`
+> `Summarize @Persephone_Analysis_Report.pdf`
 
 *Gemini replied*
 **Summary of Persephone Analysis Report**
@@ -108,7 +107,7 @@ Conclusion: Persephone represents a prime candidate for astrobiological study an
 
 <hr>
 
-`Create a 1-hour meeting tomorrow at 10am for exoplanet-research@qwiklabs.net to review conference presentation proposals.`
+> `Create a 1-hour meeting tomorrow at 10am for exoplanet-research@qwiklabs.net to review conference presentation proposals.`
 
 Review completed.
 Your request has been submitted.
